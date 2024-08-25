@@ -1,0 +1,211 @@
+/*
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}  
+  */
+
+
+/*
+  .card{
+  border: 1px solid black;
+  border-radius: 8px;
+  text-align: center;
+  width:250px;
+  box-shadow: 5px 5px 5px black;
+  display:inline-block;
+  margin: 10px;
+}
+
+.image1{
+  width:150px;
+  height: 150px;
+  margin-top: 10px;
+  border-radius: 50%;
+}
+
+*/
+
+/*
+.button{
+  background-color: rgb(32, 95, 241);
+  color:white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  border:none;
+}
+  */
+
+/*
+.student{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border:1px solid blue;
+  margin-top: 5px;
+}
+
+.student p{
+  margin: 0;
+}
+*/
+
+/*
+.correct{
+  background-color: rgb(26, 225, 26);
+}
+  
+.wrong{
+  background-color: red;
+}  */
+
+/*
+.image1{
+  width:150px;
+}  */
+
+/*
+.p1{
+  text-align: center;
+  font-size: 50px;
+}
+.b{
+  margin: 20px;
+  padding: 20px;
+  font-weight: bold;
+  background-color: aqua;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.b:hover{
+  background-color: rgb(16, 117, 117);
+}   */
+
+/*
+.d2{
+  width:150px;
+  text-align: center;
+  padding: 20px;
+  margin: 5px;
+  color: aliceblue;
+}  */
+/*----------------------------------*/
+ /*
+body{
+  background-image: url(assets/ramcharan.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+ */
+  /* OPTIONAL */
+  /* display:flex;
+   justify-content: center;
+  min-height:100vh;
+  align-items: center;
+} 
+.clock-container{
+    backdrop-filter: blur(5px);
+    width :100vw;
+    padding : 10px 0;
+}
+.clock{
+  color:beige;
+  font-size:6rem;
+  font-weight: bold;
+  font-family: monospace;
+  text-align: center;
+  text-shadow: 3px 3px 5px hsla(0, 0%,0%,0.75);
+}  */
+/*   ----------------------------------------- */
+/*  .box{
+  border: 3px solid black;
+  padding: 25px;
+}  */
+
+.p1{
+  font-size: 2rem;
+  font-weight: bold;
+}
+.general{
+  border: 2px solid black;
+  width: 400px;
+  display: inline-block;
+  margin: 5px;
+}
+#t2{
+  font-size: 2rem;
+  font-weight: bold;
+}
+.d2{
+  margin-top: 0;
+  border: 2px solid black;
+  width: 400px;
+  display: inline-block;
+  vertical-align: top;
+}
